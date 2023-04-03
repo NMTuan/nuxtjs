@@ -2,7 +2,7 @@
  * @Author: NMTuan
  * @Email: NMTuan@qq.com
  * @Date: 2023-03-31 17:11:36
- * @LastEditTime: 2023-04-03 17:02:45
+ * @LastEditTime: 2023-04-03 17:16:39
  * @LastEditors: NMTuan
  * @Description:
  * @FilePath: \nuxtjs-touxiang\nuxt.config.ts
@@ -48,7 +48,7 @@ export default defineNuxtConfig({
     port: process.env.PORT || 3000,
   },
   runtimeConfig: {
-    ADF_user_id: "f413c894d80111ec9c0752540025c377",
-    AFD_api_token: "5CeyGQmK3JnwbM8jWpsdXfqDu74rHvPt",
+    AFD_user_id: "",
+    AFD_api_token: "",
   },
 });
